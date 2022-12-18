@@ -1,0 +1,9 @@
+get members from any group ( i am not belong to this group)
+    >>>>  python3 scraper_group_members_in_any_telegram.py
+get members from group ( i am belong to this group)
+    >>>>  python3 scraper_group_members_in_my_telegram.py 
+send messsage to  list of people from csv files
+    >>>>  python3 send_message_to_list_of_person.py  group_members/members2.csv
+send messsage to one person using mobile number
+    >>>>  python3 send_message_to_one_person.py 
+
