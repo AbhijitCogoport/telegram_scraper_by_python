@@ -1,9 +1,9 @@
 from telethon.sync import TelegramClient
 import csv
 
-name = 'madhu' 
-api_id = 23633077
-api_hash = "a5ada07a60d492dd665997f10ed05024" 
+api_id = your_api_id_integer
+api_hash = your_hash_token_string
+name = your_name_string 
 chat = 'https://t.me/logistics_truck'
 
 f = open('group_message.csv', 'w')

@@ -14,6 +14,7 @@ cy="\033[1;36m"
 api_id = your_api_id_integer
 api_hash = your_hash_token_string
 name = your_name_string
+
 client = TelegramClient(name, api_id, api_hash)
 
 

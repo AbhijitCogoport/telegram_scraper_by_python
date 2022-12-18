@@ -9,9 +9,9 @@ gr="\033[1;32m"
 cy="\033[1;36m"
 re="\033[1;31m"
 
-name = 'madhu' 
-api_id = 23633077
-api_hash = "a5ada07a60d492dd665997f10ed05024" 
+api_id = your_api_id_integer
+api_hash = your_hash_token_string
+name = your_name_string
 
 client = TelegramClient( name , api_id, api_hash)
 
